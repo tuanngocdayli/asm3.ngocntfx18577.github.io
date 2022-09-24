@@ -1,6 +1,10 @@
-@media(max-width: 768px) {
+@media(max-width: 767px) {
     .text-nav{
         display: none !important;
+    }
+    .img-banner{
+        width: 100%;
+        height: auto;
     }
     #nav-bar{
         display: block;
