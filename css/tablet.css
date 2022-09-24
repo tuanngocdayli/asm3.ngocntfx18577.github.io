@@ -1,9 +1,9 @@
-@media(min-width:768px) and (max-width: 1024px){
+@media(min-width:768px) and (max-width: 1023px){
     .text-nav {
         display: none !important;
     }
     #nav-bar a:link, a:visited{
-        padding: 16px;
+        padding: 20px 10px !important;
         margin-bottom: 1rem;
         padding-bottom: 30px;
     }
@@ -11,10 +11,10 @@
         margin-top: 1rem;
     }
   #target{
-    padding: 60px 60px 80px 60px !important;
+    padding: 10px 60px 80px 60px !important;
   }
   #personal-info{
-    padding: 40px !important;
+    padding: 50px 40px !important;
   }
    #kynang{
     margin-top: -520px !important;
